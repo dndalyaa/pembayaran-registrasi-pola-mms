@@ -1,2 +1,2 @@
-# pembayaran-registrasi-pola-mms
-Analisis sistem antrian pembayaran registrasi mahasiswa dengan model antrian single channel-single phase pola M/M/s
+\# Analisis Sistem Antrian Pembayaran Registrasi Mahasiswa dengan Model Antrian Single Channel-Single Phase Pola M/M/s
+
